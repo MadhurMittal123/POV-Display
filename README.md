@@ -51,8 +51,7 @@ A microcontroller synchronizes LED patterns with rotation speed to render charac
 ---
 
 ## 📷 Demo
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)]
-(https://raw.githubusercontent.com/MadhurMittal123/POV-Display/main/assets/TESTING VIDEO.mp4)
+(https://github.com/user-attachments/assets/c20bb531-e83e-4001-9a8e-9846027388d9)
 
 
  (photos will be added soon)
